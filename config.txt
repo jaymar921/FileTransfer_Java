@@ -1,0 +1,5 @@
+# File Transfer Server by Jayharron Abejar
+# Modify the config below
+server: 192.168.1.50
+port: 25560
+server_root_path: server/files/
